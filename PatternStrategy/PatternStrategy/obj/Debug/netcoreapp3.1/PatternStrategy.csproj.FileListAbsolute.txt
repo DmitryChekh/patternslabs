@@ -1,0 +1,11 @@
+B:\Programming\patternslabworks\PatternStrategy\PatternStrategy\obj\Debug\netcoreapp3.1\PatternStrategy.csprojAssemblyReference.cache
+B:\Programming\patternslabworks\PatternStrategy\PatternStrategy\obj\Debug\netcoreapp3.1\PatternStrategy.AssemblyInfoInputs.cache
+B:\Programming\patternslabworks\PatternStrategy\PatternStrategy\obj\Debug\netcoreapp3.1\PatternStrategy.AssemblyInfo.cs
+B:\Programming\patternslabworks\PatternStrategy\PatternStrategy\bin\Debug\netcoreapp3.1\PatternStrategy.exe
+B:\Programming\patternslabworks\PatternStrategy\PatternStrategy\bin\Debug\netcoreapp3.1\PatternStrategy.deps.json
+B:\Programming\patternslabworks\PatternStrategy\PatternStrategy\bin\Debug\netcoreapp3.1\PatternStrategy.runtimeconfig.json
+B:\Programming\patternslabworks\PatternStrategy\PatternStrategy\bin\Debug\netcoreapp3.1\PatternStrategy.runtimeconfig.dev.json
+B:\Programming\patternslabworks\PatternStrategy\PatternStrategy\bin\Debug\netcoreapp3.1\PatternStrategy.dll
+B:\Programming\patternslabworks\PatternStrategy\PatternStrategy\bin\Debug\netcoreapp3.1\PatternStrategy.pdb
+B:\Programming\patternslabworks\PatternStrategy\PatternStrategy\obj\Debug\netcoreapp3.1\PatternStrategy.dll
+B:\Programming\patternslabworks\PatternStrategy\PatternStrategy\obj\Debug\netcoreapp3.1\PatternStrategy.pdb
