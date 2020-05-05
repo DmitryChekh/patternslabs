@@ -1,0 +1,11 @@
+B:\Programming\patternslabworks\patternObserver\patternObserver\bin\Debug\netcoreapp3.1\patternObserver.exe
+B:\Programming\patternslabworks\patternObserver\patternObserver\bin\Debug\netcoreapp3.1\patternObserver.deps.json
+B:\Programming\patternslabworks\patternObserver\patternObserver\bin\Debug\netcoreapp3.1\patternObserver.runtimeconfig.json
+B:\Programming\patternslabworks\patternObserver\patternObserver\bin\Debug\netcoreapp3.1\patternObserver.runtimeconfig.dev.json
+B:\Programming\patternslabworks\patternObserver\patternObserver\bin\Debug\netcoreapp3.1\patternObserver.dll
+B:\Programming\patternslabworks\patternObserver\patternObserver\bin\Debug\netcoreapp3.1\patternObserver.pdb
+B:\Programming\patternslabworks\patternObserver\patternObserver\obj\Debug\netcoreapp3.1\patternObserver.csprojAssemblyReference.cache
+B:\Programming\patternslabworks\patternObserver\patternObserver\obj\Debug\netcoreapp3.1\patternObserver.AssemblyInfoInputs.cache
+B:\Programming\patternslabworks\patternObserver\patternObserver\obj\Debug\netcoreapp3.1\patternObserver.AssemblyInfo.cs
+B:\Programming\patternslabworks\patternObserver\patternObserver\obj\Debug\netcoreapp3.1\patternObserver.dll
+B:\Programming\patternslabworks\patternObserver\patternObserver\obj\Debug\netcoreapp3.1\patternObserver.pdb
