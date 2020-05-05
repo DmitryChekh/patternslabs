@@ -11,7 +11,8 @@ namespace patternObserver
 
             CurrentRateDisplay currentDisplay = new CurrentRateDisplay(currencyData);
 
-            CurrencyStatics statisticsDisplay = new CurrencyStatics(currencyData);
+            CurrencyStaticsDisplay statisticsDisplay = new CurrencyStaticsDisplay(currencyData);
+
 
             currencyData.setCurrency(80, 75, 200);
             currencyData.setCurrency(64, 54, 105);
@@ -22,7 +23,7 @@ namespace patternObserver
             currencyData.setCurrency(22, 12, 32);
             currencyData.setCurrency(1, 1, 1);
 
-
+            currencyData.GetObserver();
             Console.ReadLine();
         }
 
@@ -61,6 +62,14 @@ namespace patternObserver
                 observers.Add(o);
             }
 
+            public void GetObserver()
+            {
+               foreach(var o in observers)
+                {
+                    Console.WriteLine(o.ToString());
+                }
+            }
+
             public void NotifyObservers()
             {
                 foreach(var o in observers)
@@ -92,6 +101,7 @@ namespace patternObserver
 
         class CurrentRateDisplay : IObserver, DisplayElement
         {
+
             private decimal DollarRate;
             private decimal EuroRate;
             private decimal SterlingRate;
@@ -117,26 +127,22 @@ namespace patternObserver
             }
         }
 
-        class CurrencyStatics : IObserver, DisplayElement
+        class CurrencyStaticsDisplay : IObserver, DisplayElement
         {
-            private decimal DollarRate;
-            private decimal EuroRate;
-            private decimal SterlingRate;
+
             private decimal[] dollarArray = new decimal[7];
             private decimal[] euroArray = new decimal[7];
             private decimal[] sterlingArray = new decimal[7];
             private int counterDays = 0;
 
-            public CurrencyStatics(Subject currencyData)
+            public CurrencyStaticsDisplay(Subject currencyData)
             {
                 currencyData.AddObserver(this);
             }
 
             public void Update(decimal euro, decimal dollar, decimal sterling)
             {
-                this.DollarRate = dollar;
-                this.EuroRate = euro;
-                this.SterlingRate = sterling;
+
 
                 if(counterDays > 6)
                 {
