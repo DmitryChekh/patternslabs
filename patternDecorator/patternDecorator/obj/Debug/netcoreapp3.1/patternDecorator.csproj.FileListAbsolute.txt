@@ -1,0 +1,11 @@
+B:\Programming\patternslabworks\patternDecorator\patternDecorator\bin\Debug\netcoreapp3.1\patternDecorator.exe
+B:\Programming\patternslabworks\patternDecorator\patternDecorator\bin\Debug\netcoreapp3.1\patternDecorator.deps.json
+B:\Programming\patternslabworks\patternDecorator\patternDecorator\bin\Debug\netcoreapp3.1\patternDecorator.runtimeconfig.json
+B:\Programming\patternslabworks\patternDecorator\patternDecorator\bin\Debug\netcoreapp3.1\patternDecorator.runtimeconfig.dev.json
+B:\Programming\patternslabworks\patternDecorator\patternDecorator\bin\Debug\netcoreapp3.1\patternDecorator.dll
+B:\Programming\patternslabworks\patternDecorator\patternDecorator\bin\Debug\netcoreapp3.1\patternDecorator.pdb
+B:\Programming\patternslabworks\patternDecorator\patternDecorator\obj\Debug\netcoreapp3.1\patternDecorator.csprojAssemblyReference.cache
+B:\Programming\patternslabworks\patternDecorator\patternDecorator\obj\Debug\netcoreapp3.1\patternDecorator.AssemblyInfoInputs.cache
+B:\Programming\patternslabworks\patternDecorator\patternDecorator\obj\Debug\netcoreapp3.1\patternDecorator.AssemblyInfo.cs
+B:\Programming\patternslabworks\patternDecorator\patternDecorator\obj\Debug\netcoreapp3.1\patternDecorator.dll
+B:\Programming\patternslabworks\patternDecorator\patternDecorator\obj\Debug\netcoreapp3.1\patternDecorator.pdb
